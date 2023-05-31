@@ -1,0 +1,50 @@
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.Berserk
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("BerserkCharge"):FireServer(unpack(args))
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.Berserk
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("BerserkCharge"):FireServer(unpack(args))
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.Berserk
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("BerserkCharge"):FireServer(unpack(args))
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.Berserk
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("BerserkCharge"):FireServer(unpack(args))
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.Berserk
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("BerserkCharge"):FireServer(unpack(args))
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.Berserk
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("BerserkCharge"):FireServer(unpack(args))
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.Berserk
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("BerserkCharge"):FireServer(unpack(args))
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.Berserk
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("BerserkCharge"):FireServer(unpack(args))
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.Berserk
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("BerserkCharge"):FireServer(unpack(args))
+local args = {
+    [1] = game:GetService("Players").LocalPlayer.Character.Berserk
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("BerserkCharge"):FireServer(unpack(args))
